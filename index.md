@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next Gen Blog
+title: Info Stack
 ---
 {% include JB/setup %}
 
