@@ -12,7 +12,7 @@ title : Info Stack
 tagline: 
 author :
   name : Rohan Jaswal
-  email : rohanjaswal2507@gmail.com
+  email : rohan@glug.nith.ac.in
   github : rohanjaswal2507
   twitter : rohanjaswal2507
   feedburner : feedname
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://rohanjaswal.in
+production_url : http://rohanjaswal2507.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : rohanjaswal
     livefyre :
       site_id : 123
     intensedebate :
@@ -98,7 +98,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false 
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
