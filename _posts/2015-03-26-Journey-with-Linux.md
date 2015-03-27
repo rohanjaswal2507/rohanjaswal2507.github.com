@@ -30,4 +30,26 @@ After entering this command, nautilus file explorer opens with root access. Now,
     <center>Now we can do anything we want</center>
 </p>
 
+
+###Find the location of a program
+Many times, you would want to find the location of the exexutable file of a program you use. You would want to know where id the executable of your program is stored in the file system.
+You can accomplish this task by using `which` command. `which` is command line utility in linux which tells the location of the binary file of a program. For example, if you want to find the location of copy protocol, `cp` in your file system, type this in a terminal,
+
+`which cp`
+
+The output of the following program in my machine is,
+
+`/bin/cp`
+
+Let's have a look on one more example.
+
+`which which`
+
+The output is 
+
+`/usr/bin/which`
+
+So, use this utility tool and keep on hacking!
+
+
 Thanks for reading, will add more updates soon.
