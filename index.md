@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Info Stack
 ---
 {% include JB/setup %}
 
