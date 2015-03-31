@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-When we start using some new technology, we get learning more and more as we keep using it. In this blog post, I write about various new things, tips, tricks, tools I learn in linux. I keep updating this post from time to time as learning process should never stop.
+When we start using some new technology, we keep learning more and more as we keep using it. In this blog post, I write about various new things, tips, tricks, tools I learn in linux. I keep updating this post from time to time as learning process should never stop.
 
 
 ###Accessing root graphically

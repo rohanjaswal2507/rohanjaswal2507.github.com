@@ -2,8 +2,8 @@
 layout: post
 title: "Setting up custom domain for Blog"
 description: "This blog post is about setting up custom domains for github pages"
-category: 
-tags: []
+category: Blogging 
+tags: [blogging, github pages, custom domain, ]
 ---
 {% include JB/setup %}
 
