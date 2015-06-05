@@ -2,7 +2,7 @@
 layout: post
 title: "Recover a lost SSH session"
 description: "This post is about recovering a ssh session when you are not allowed any more logins"
-category: linux, ssh
+category: linux
 tags: [linux, ssh, unix]
 ---
 {% include JB/setup %}

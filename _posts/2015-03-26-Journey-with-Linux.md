@@ -2,7 +2,7 @@
 layout: post
 title: "Journey with Linux"
 description: "This blog post is about various linux tips and tricks, hacking new things."
-category: linux, linux tweaks
+category: linux
 tags: [linux, linux tweaks, root, which, gksudo]
 ---
 {% include JB/setup %}
