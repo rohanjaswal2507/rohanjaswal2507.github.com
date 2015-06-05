@@ -23,16 +23,16 @@ To change the color scheme of your VIM text editor in Ubuntu-like distros, follo
 
 **2)** Add this line to the end of the file
 
-    colorscheme delak
+    colorscheme delek
 
 And see the difference.<br>
 <p>
-	<center><img src="/images/colorscheme_delak.png"></center>
-	<center>This is how delak colorscheme looks like</center>
+	<center><img src="/images/colorscheme_delek.png"></center>
+	<center>This is how delek colorscheme looks like</center>
 </p>
 *Note: Make sure that Syntax highlighting is on*
 
-Here, delak is the name of the color scheme. You can choose various color schemes of your choice.
+Here, delek is the name of the color scheme. You can choose various color schemes of your choice.
 
 To see all the installed color schemes, type this in **Command Mode**.
 
