@@ -62,8 +62,8 @@ The real magic will happen now.
 
 {% highlight c %}
 for ( i = 0; i < prime_count; i++ ) {
-	if ( upper > prime[i] ) {
-	    q = (double) lower/prime[i];
+    if ( upper > prime[i] ) {
+        q = (double) lower/prime[i];
         k = ceil (q);
     
     	if ( k == 1 )
