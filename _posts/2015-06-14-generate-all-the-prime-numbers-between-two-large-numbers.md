@@ -12,13 +12,13 @@ One of the such problems is to generate all the prime numbers between any two In
 The problems is very popular and finds its place in all the programming sites.
 
 ###Problem Statement
-You have to generate all the **prime numbers** between two given integers **m** and **n**.
+You have to generate all the **prime numbers** between two given integers **x** and **y**.
 
 ####Constraints:
 
-**m** < **n** <= 1000000000
+**x** < **y** <= 1000000000
 
-**m** - **n** < 1000000
+**y** - **x** < 100000
 
 
 So, the range of the numbers is quite large.
@@ -58,7 +58,7 @@ for ( i = 2; i < 31623; i++ ) {
 }
 {% endhighlight %}
 
-The real magic will happen now.
+The real magic will happen now. (Here, `upper` is **y** and `lower` is **x**).
 
 {% highlight c %}
 for ( i = 0; i < prime_count; i++ ) {
@@ -174,7 +174,7 @@ int main () {
 {% endhighlight %}
 
 
-
+Any **Comments** or **suggestions** are welcome!
 
 
 
