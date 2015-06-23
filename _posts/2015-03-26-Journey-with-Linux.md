@@ -52,4 +52,21 @@ The output is
 So, use this utility tool and keep on hacking!
 
 
+### Execute certain commands or scripts everytime system reboots
+
+**Cron** is a time-based job scheduler in UNIX like systems. You can use various crons to schedule various jobs in your system.
+
+Sometime ago, there was a situation with me. I had to run certain commands in my linux-box was rebooted. So, I did this.
+
+I made an entry to crontab to run a bash script which contained the commands I needed to execute.
+
+To make an entry to **crontab**, type this in your terminal,
+
+    crontab -e
+
+And then write this to the end of the file.
+
+    @reboot /home/user/script.sh
+
+
 Thanks for reading, will add more updates soon.
