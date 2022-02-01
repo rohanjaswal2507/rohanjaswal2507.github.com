@@ -5,7 +5,6 @@ description: "This post is about recovering a ssh session when you are not allow
 category: linux
 tags: [linux, ssh, unix]
 ---
-{% include JB/setup %}
 
 It happens many times, when we you are logged in to some remote computer using ssh and your slow network troubles you a lot. In our hostel, we have very poor infrastructure which results in a poor network.
 

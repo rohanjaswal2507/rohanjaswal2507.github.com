@@ -5,7 +5,6 @@ description: "This blog post is about setting up custom domains for github pages
 category: Blogging 
 tags: [blogging, github pages, custom domain, ]
 ---
-{% include JB/setup %}
 
 I recently set up custom domain for my blog <a href="http://rohanjaswal.in">Info Stack</a>. Although, there is a very good documentation available for doing this on github.com, but this post is going to make things easy for you. So, it goes like this.
 
@@ -13,10 +12,10 @@ To add a custom domain for your github pages or projects, you need a custom doma
 
 After getting a custom domain from DNSimple, you have to add your domain as an alias for your github pages. To do this, click on the services against your domain name. On the next screen, you will see many options offering various services for your domain name. Choose github pages and add your repository name.
 <p>
-    <img src="/images/domain_services.png" width="670px">
+    <img src="/assets/media/domain_services.png" width="670px">
 </p>
 
-####Adding CNAME
+#### Adding CNAME
 `CNAME` is a file in your github pages repository which contains information about your custom domain name. In my case, this file contains
 
     rohanjaswal.in

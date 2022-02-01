@@ -5,7 +5,6 @@ description: "Terminal color schemes always attract command line users. This blo
 category: Linux
 tags: [linux, bash, tweaks]
 ---
-{% include JB/setup %}
 
 Text color schemes always attract Command line users. **Vi** is one of the most popular and powerful command line text editor. Every linux user is fan of this text editor.
 
@@ -27,7 +26,7 @@ To change the color scheme of your VIM text editor in Ubuntu-like distros, follo
 
 And see the difference.<br>
 <p>
-	<center><img src="/images/colorscheme_delek.png"></center>
+	<center><img src="/assets/media/colorscheme_delek.png"></center>
 	<center>This is how delek colorscheme looks like</center>
 </p>
 *Note: Make sure that Syntax highlighting is on*

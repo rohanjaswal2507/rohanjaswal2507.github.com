@@ -5,7 +5,6 @@ description: "In this blog post, I have written about a command line utility **s
 category: Linux
 tags: [Terminal, script]
 ---
-{% include JB/setup %}
 
 Keeping track of everything you do is a good habit.
 So, why not record your activity on the terminal.
@@ -14,7 +13,7 @@ You must have thought of recording your session on the terminal.
 Linux provides you a command line utility named **Script** which can be used to make typescripts of your terminal sessions.
 According to the Description of **script** on its manpage,
 
-<center><img src="/images/script_description.png"></center>
+<center><img src="/assets/media/script_description.png"></center>
 
 <p>
 
@@ -31,12 +30,12 @@ script -a recordfile
 So, all the activity on the terminal after this command is appended to the contents of **recordfile**.
 See the pictures for illustration.
 <center>
-<img src="/images/script_demo.png">
+<img src="/assets/media/script_demo.png"><br/>
 Screenshot of the terminal
 </center>
 <br>
 
 <center>
-<img src="/images/script_recordfile.png">
+<img src="/assets/media/script_recordfile.png"><br/>
 Contents of the recordfile
 </center>
