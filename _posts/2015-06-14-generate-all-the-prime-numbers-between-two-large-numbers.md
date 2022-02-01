@@ -5,16 +5,15 @@ description: "This blog post is a tutorial to find all the prime numbers between
 category: Algorithms 
 tags: [Sieve of Eratosthenes, Prime numbers ]
 ---
-{% include JB/setup %}
 
 Problems dealing with prime numbers have always been of great interest to the programmers.
 One of the such problems is to generate all the prime numbers between any two Integers.
 The problems is very popular and finds its place in all the programming sites.
 
-###Problem Statement
+### Problem Statement
 You have to generate all the **prime numbers** between two given integers **x** and **y**.
 
-####Constraints:
+#### Constraints:
 
 **x** < **y** <= 1000000000
 

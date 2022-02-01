@@ -5,7 +5,6 @@ description: "In this post, I have tried to pen down the memories from my second
 category: Personal Experience 
 tags: []
 ---
-{% include JB/setup %}
 <p>It was July of year 2014. We all had entered the second year of our Engineering career. We were going to be seniors now. There were lot of excitements. New year, new hostel, new experiences, new trips, all were waiting.</p>
 
 On the day, before registration for next semester, I came to the newly allotted hostel, **Mega Hostel** .
@@ -44,7 +43,7 @@ On the Software freedom day, Divyanshu Maithani and I introduced freshers to wor
 
 
 <p>
-    <center><img src="/images/sfd2015.JPG" width="480px" height="360px"></center>
+    <center><img src="/assets/media/sfd2015.JPG" width="480px" height="360px"/></center>
     <center>Introducing Linux to freshers on SFD 2015</center>
 </p>
 
@@ -64,14 +63,15 @@ We watched ( actually **revised** ) Avengers 10 times in a day.
 
 
 
-###Heading towards becoming a half engineer
+### Heading towards becoming a half engineer
 4th semester began with one more anticipated event of the college.
 Representatives from **Mozilla foundation** organized an event to connect people from NITH to mozilla community.
 **MozVision** was organized on 24th January, 2015.
 Mozilla representatives formed firefox club in NIT Hamirpur and selected campus ambassadors for the firefox club.
 I was also selected as a campus ambassador.
 
-<center><img src="/images/mozvision.jpg">NITH People during MozVision</center>
+<center><img src="/assets/media/mozvision.jpg"></center>
+<center>NITH People during MozVision</center>
 
 
 <br>
@@ -105,7 +105,7 @@ Now, I am looking for a productive and fruitful summer vacation. I will be worki
 
 
 
-###Conclusion
+### Conclusion
 Overall, the year was very good.
 I got to learn a lot from Seniors, especially from <a href="http://pricked.in">Pranav Kant</a>, Giriraj Sharma.
 I learnt many small things, though the pace of learning was not as expected. 

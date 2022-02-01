@@ -6,14 +6,13 @@ category: tools
 tags: [linux, command line, ttytter, twitter]
 ---
 
-{% include JB/setup %}
 I use twitter for microblogging. We always access twitter via our web browser or the mobile app developed by twitter. Offcourse, they are best methods to use these sites. Recently, I came to know about using twitter from command line. I read about **TTYtter** on Arch wiki.
 
 **TTYtter** is a command line tool written in Python for microblogging on twitter. If you do not want to see pictures or other graphical things on twitter and just want to read others' tweets, TTYtter is the thing for you. TTYtter fetches tweets of the people you follow on your command line. This gives twitter a IRC like interface and it looks cool to me.
 
 Tweets on command line look somewhat like this.
 <p>
-	<img src = "/images/ttytter.png">
+	<img src = "/assets/media/ttytter.png">
 </p>
 
 To install **TTYtter** on Debian based systems, type this command

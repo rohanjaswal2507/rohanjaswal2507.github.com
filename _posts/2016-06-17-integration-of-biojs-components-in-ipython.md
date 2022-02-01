@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 This summer I am working with <a href="https://biojsnet.herokuapp.com">*BioJS Foundation*</a> under <a href="https://summerofcode.withgoogle.com/">*Google Summer of Code programme*</a>.
 My project is to create a specification that integrates BioJS visualisation components in IPython.
 <a href="http://jupyter.org/">*Jupyter notebook*</a> is the best platform to practice interactive computing and is most used interactive computing platform used for IPython.
@@ -32,7 +31,7 @@ So far, I have been able to visualise two very popular BioJS components in IPyth
 
 These are <a href="https://msa.biojs.net">*MSA*</a> and <a href="http://js.cytoscape.org/">*cytoscape.js*</a>.
 The visualisation of these components in Ipython looks like this.
-<center><img src="/images/msa_import_from_url.png" width="100%">*MSA displaying a sequence*</img></center>
-<center><img src="/images/cytoscape_basic_drawing_example.png" width="100%">*Basic graph drawing using cytoscape.js*</img></center>
+<center><img src="/assets/media/msa_import_from_url.png" width="100%">*MSA displaying a sequence*</img></center>
+<center><img src="/assets/media/cytoscape_basic_drawing_example.png" width="100%">*Basic graph drawing using cytoscape.js*</img></center>
 
 Now, I look to wrap up one more biojs component and then work on including more features of these components in the specification.

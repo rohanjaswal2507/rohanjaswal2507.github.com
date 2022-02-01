@@ -5,12 +5,11 @@ description: ""
 category: Tweaks 
 tags: [Facebook, Moments, Android, APK mirror]
 ---
-{% include JB/setup %}
 Hi,
 
 You must be aware of **Moments**, an app launched by Facebook which lets you sync your photographs with your friends in an easy way.
 <a href="http://fossbytes.com/facebook-launches-moments" target="_blank">Read more about Facebook Moments on Fossbytes.</a>
-<center><a href="http://fossbytes.com/facebook-launches-moments" target="_blank"><img src="/images/Moments-Logo.png" width="25%" height="25%"></a></center>
+<center><a href="http://fossbytes.com/facebook-launches-moments" target="_blank"><img src="/assets/media/Moments-Logo.png" width="25%" height="25%"></a></center>
 
 But, the service is only available only in **United States** right now.
 Google Play Store doesn't list the app for you if you are living outside United States.
@@ -25,7 +24,7 @@ But, this morning I again opened the application and received a notification.
 I was surprised. Moments had started working for me.
 Now, I am using Facebook Moments without living in United States here in India.
 Please see the screenshot.
-<center><img src="/images/fb-moments.png" width="50%" height="50%"></center>
+<center><img src="/assets/media/fb-moments.png" width="50%" height="50%"></center>
 
 Please try downloading moments on your Phone from APK mirror and share your experience if you too are able to use Moments.
 I don't know how this is working now.

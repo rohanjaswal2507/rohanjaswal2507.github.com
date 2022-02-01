@@ -5,11 +5,10 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 I like sharing information and knowledge with as many people I can. That's why I like to blog on various things. Today I started writing for one of the most popular blogging website of India, <a href="http://fossbytes.com" target="_blank">fossbytes.com</a>. 
 
-<img src="/images/fossbytes-logo.png" alt="Fossbytes Logo"/>
+<img src="/assets/media/fossbytes-logo.png" alt="Fossbytes Logo"/>
 <center><a href = "http://fossbytes.com" target="_blank">Fossbytes.com</a></center>
 <br>
 Fossbytes is founded by two students of NIT Hamirpur, Adarsh Verma and Arpit Verma. 

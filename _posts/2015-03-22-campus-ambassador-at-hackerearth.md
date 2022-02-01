@@ -5,11 +5,10 @@ description: "How is it like to be a Hackerearth Campus ambassador"
 category:  
 tags: [Competitive Programming, Hackerearth, Campus Evangelist]
 ---
-{% include JB/setup %}
 I am a Hackerearth campus evangelist in my college i.e. NIT Hamirpur. A Hackerearth campus evangelist is the person who is responsible for organizing programming contests on Hackerearth, promoting hackerearth activities in college. Hackerearth Campus chapter in NIT Hamirpur was started by Giriraj Sharma(CSE, 2011-15 Batch). Since then, our campus chapter has organized many online and offline events to promote programming culture in our college.
 
 
-####Benefits of being a campus ambassador
+#### Benefits of being a campus ambassador
 
 Being an active campus ambassador, it benefits you a lot in many ways.
 
@@ -17,7 +16,7 @@ Being an active campus ambassador, it benefits you a lot in many ways.
 - You have to communicate with the people working in hackerearth in written as well as oral means. This improves your communication skills a lot.
 - You get lots of free goodies like T-shirts and many other things from hackerearth regularly :p.
 
-####Organizing a contest on Hackerearth
+#### Organizing a contest on Hackerearth
 
 <p>
 Organizing a contest on hackerearth is quite an easy task. Hackerearth provides you an recruiter's account to hold contests on hackerearth. With this account comes an admin console which is used to create tests, maintain test settings and many other things.
@@ -27,7 +26,7 @@ You can create and hold a contest any time you want. Whenever you create a publi
 <br/>
 </p>
 
-####Support from Hackerearth for college contests
+#### Support from Hackerearth for college contests
 
 Apart from providing you with a platform to hold worldwide online contests, hackerearth supports every public contest you organize. Hackerearth awards prizes to the winners of the contest. These prizes vary according to the total number of participants in your contest.<br>
 For example, if your contest sees a participation of 400 or more people, then the first winner of the contest gets a hackerearth T-shirt, a pen drive and Book my show coupons.<br>

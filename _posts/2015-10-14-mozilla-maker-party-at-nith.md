@@ -5,7 +5,6 @@ description: "A blog post on Mozilla Maker party held at NIT Hamirpur on Softwar
 category: personal experience
 tags: [mozilla, SFD, SFD2k15, GLUGNITH, NITHFirefox, MakerParty]
 ---
-{% include JB/setup %}
 
 I know it is quite late to write a blog post on an event that was held almost a month ago.
 But, It would be wrong of me if I don't share my experience with my friends.
