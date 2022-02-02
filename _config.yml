@@ -7,6 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: infostack
 google_analytics: UA-62411796-1
+fb_app_id: 753888716014248
 title: Info Stack
 
 defaults:
