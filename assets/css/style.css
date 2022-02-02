@@ -101,6 +101,11 @@ article{
 	margin-bottom: 40px;
 }
 
+article p {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
 .article_body{
 	margin-top: 20px;
 	margin-bottom: 20px;
