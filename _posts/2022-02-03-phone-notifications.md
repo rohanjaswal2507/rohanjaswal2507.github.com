@@ -3,7 +3,7 @@ layout: post
 title: "I turned off notifications on my phone"
 description: "Recently I turned off notifications for almost all the apps on my phone and it resulted in improved concentration,
 enhanced ability to do deep and focused work."
-category: productivity
+category: "productivity"
 tags: [social-media, phone-addiction, time-management, deep-work, focus]
 ---
 
