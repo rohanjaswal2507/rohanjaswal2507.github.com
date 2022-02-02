@@ -69,9 +69,9 @@ To end this, quoting something from Deep work:<br/>
 And if you think you stay updated or won't miss out on important stuff via these many notifications, then please remember, **If something is important, it will find you!**
 
 Books that might have influenced my thinking here:
-- <a href="https://amzn.to/3HnEZIZ" target="_blank">Deep work</a>
-- <a href="https://amzn.to/3ghlFBc" target="_blank">Atomic habits</a>
-- <a href="https://amzn.to/3AWnJrV" target="_blank">Power of your subconscious mind</a>
-- <a href="https://amzn.to/34d5imX" target="_blank">As the man thinketh</a>
+- <a href="https://amzn.to/3HnEZIZ" target="_blank">Deep Work</a>
+- <a href="https://amzn.to/3ghlFBc" target="_blank">Atomic Habits</a>
+- <a href="https://amzn.to/3AWnJrV" target="_blank">The Power of Your Subconscious Mind</a>
+- <a href="https://amzn.to/34d5imX" target="_blank">As a Man Thinketh</a>
 - <a target="_blank" href="https://www.amazon.in/gp/product/178633089X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=178633089X&linkCode=as2&tag=infostack02-21&linkId=3e461e7033964dfb7d2edff744baf500">Ikigai: The Japanese secret to a long and happy life</a>
 
