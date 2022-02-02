@@ -104,6 +104,9 @@ article{
 .article_body{
 	margin-top: 20px;
 	margin-bottom: 20px;
+	font-size: 18px;
+	text-align: justify;
+        text-justify: inter-word;
 }
 
 .post-date {

@@ -25,7 +25,7 @@ author:
   linkedin: rohanjaswal2507
   bio: Software Engineer at Goldcast. Playing around with Python, Java and stuff!
 
-rss_path: rss.xml
+rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
