@@ -20,7 +20,7 @@ Being an active campus ambassador, it benefits you a lot in many ways.
 
 <p>
 Organizing a contest on hackerearth is quite an easy task. Hackerearth provides you an recruiter's account to hold contests on hackerearth. With this account comes an admin console which is used to create tests, maintain test settings and many other things.
-You can create and hold a contest any time you want. Whenever you create a public contest, it gets published online on <a href="http://www.hackerearth.com/college-challenges/" target="_blank">College Challenges</a> page. You can set up any number of programming questions. You can also ask Objective questions in the contest.
+You can create and hold a contest any time you want. Whenever you create a public contest, it gets published online on <a href="https://www.hackerearth.com/college-challenges/" target="_blank">College Challenges</a> page. You can set up any number of programming questions. You can also ask Objective questions in the contest.
 <br/>Everything I have told yo so far seems easy. The toughest job is setting up the programming questions. This is one task which requires perfection.
 <br/>First all, you have to design a nice and tricky problem. Then you have to generate the test cases which are used to test the participants' solutions for the given problem. While generating test cases, you have to take care of all the problem constraints, all the special cases which could make the problem a tricky and irritating one. Moreover, you have to write the best solution to your problem so that you can set the time limits such that only the best submissions could get accepted.
 <br/>
