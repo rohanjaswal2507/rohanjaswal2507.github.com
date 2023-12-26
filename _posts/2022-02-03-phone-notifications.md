@@ -69,9 +69,9 @@ To end this, quoting something from Deep work:<br/>
 And if you think you stay updated or won't miss out on important stuff via these many notifications, then please remember, **If something is important, it will find you!**
 
 Books that might have influenced my thinking here:
-- <a href="https://amzn.to/3HnEZIZ" target="_blank">Deep Work</a>
-- <a href="https://amzn.to/3ghlFBc" target="_blank">Atomic Habits</a>
-- <a href="https://amzn.to/3AWnJrV" target="_blank">The Power of Your Subconscious Mind</a>
-- <a href="https://amzn.to/34d5imX" target="_blank">As a Man Thinketh</a>
+- <a href="https://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349413681?crid=1GSAMYKDREGP7&keywords=deep+work&qid=1703595932&sprefix=deep%2Caps%2C80&sr=8-1&linkCode=ll1&tag=infostack2024-21&linkId=4ecfdbe803d4d4a2cffbd5b2f33853b7&language=en_IN&ref_=as_li_ss_tl" target="_blank">Deep Work</a>
+- <a href="https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834?crid=4QISVIFJ0APP&keywords=atomic+habits&qid=1703595828&sprefix=atomic+%2Caps%2C70&sr=8-3&linkCode=ll1&tag=infostack2024-21&linkId=3284384b931765510b85f519d7210875&language=en_IN&ref_=as_li_ss_tl" target="_blank">Atomic Habits</a>
+- <a href="https://www.amazon.in/gp/product/8194790832?ie=UTF8&linkCode=ll1&tag=infostack2024-21&linkId=206824ea0d1bab79c786afaab39120f9&language=en_IN&ref_=as_li_ss_tl" target="_blank">The Power of Your Subconscious Mind</a>
+- <a href="https://www.amazon.in/As-Man-Thinketh-James-Allen/dp/9354860478?keywords=as+a+man+thinketh&qid=1675853004&s=books&sprefix=as+a+%2Cstripbooks%2C202&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=infostack2024-21&linkId=7ba93aecee0767875cbc5366ac1a7a44&language=en_IN&ref_=as_li_ss_tl" target="_blank">As a Man Thinketh</a>
 - <a target="_blank" href="https://www.amazon.in/gp/product/178633089X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=178633089X&linkCode=as2&tag=infostack02-21&linkId=3e461e7033964dfb7d2edff744baf500">Ikigai: The Japanese secret to a long and happy life</a>
 
