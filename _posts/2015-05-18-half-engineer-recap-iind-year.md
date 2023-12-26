@@ -3,6 +3,7 @@ layout: post
 title: "Half Engineer: Recap IInd Year"
 description: "In this post, I have tried to pen down the memories from my second year of college."
 category: Personal Experience 
+cover_image: "/assets/media/sfd2015.JPG"
 tags: []
 ---
 <p>It was July of year 2014. We all had entered the second year of our Engineering career. We were going to be seniors now. There were lot of excitements. New year, new hostel, new experiences, new trips, all were waiting.</p>
