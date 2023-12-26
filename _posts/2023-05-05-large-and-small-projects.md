@@ -4,6 +4,7 @@ title: "Large and Small Projects"
 description: "Working on projects of different size and scale has different kind of impact on the learning of developers."
 category: "software-development"
 tags: [software-development, engineering, codebase, growth, learning]
+cover_image: "/assets/media/large-and-small-codebase.jpg"
 ---
 
 <img src="/assets/media/large-and-small-codebase.jpg" alt="Large and Small Codebases"/>
