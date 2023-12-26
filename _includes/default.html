@@ -17,6 +17,9 @@
 	<meta property="og:description" content="{{ page.description }}"/>
 	{% endif %}
 	<meta property="og:author" content="{{ site.author.name }}"/>
+	{% if page.cover_image %}
+	<meta property="og:image" content="{{ site.BASE_PATH }}{{ page.cover_image }}"/>
+	{% endif %}
 
 	<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
 	<!--[if lt IE 9]>
