@@ -7,7 +7,7 @@ cover_image: "/assets/media/sintra_forest.jpeg"
 tags: [travel, portugal, good-deeds, karma, humanity]
 ---
 
-<img src="/assets/media/sintra_forest.jpeg" loading="lazy" alt="Angels and Demons in Portugal">
+<img src="/assets/media/sintra_forest.jpeg" alt="Angels and Demons in Portugal">
 
 Have you ever had an experience that further cemented the fact that there’s both good and bad in the world?<br/>
 _An experience that makes you believe in the power of Karma.<br/>
