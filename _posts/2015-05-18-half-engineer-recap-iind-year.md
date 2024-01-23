@@ -44,7 +44,7 @@ On the Software freedom day, Divyanshu Maithani and I introduced freshers to wor
 
 
 <p>
-    <center><img src="/assets/media/sfd2015.JPG" width="480px" height="360px"/></center>
+    <center><img src="/assets/media/sfd2015.JPG"/></center>
     <center>Introducing Linux to freshers on SFD 2015</center>
 </p>
 
