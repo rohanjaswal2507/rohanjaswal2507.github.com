@@ -2,7 +2,9 @@
 layout: default
 ---
 {% include post.html %}
-
-{% if site.disqus %}
-    {% include disqus.html %}
-{% endif %}
+<div class="col-sm-10">
+    {% include subscribe_form.html %}
+    {% if site.disqus %}
+        {% include disqus.html %}
+    {% endif %}
+</div>

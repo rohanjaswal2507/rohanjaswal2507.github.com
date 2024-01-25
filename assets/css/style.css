@@ -5,7 +5,7 @@ body{
 }
 
 .sidebar {
-	position: fixed;  
+	position: fixed;
 	top: 0px;
 	padding-top: 10%;
 	background-color: #2c3e50;
@@ -121,7 +121,9 @@ article p {
 }
 
 article {
-	padding: 0 5% 0;
+    @media only screen and (min-width: 768px) {
+        padding: 0 5% 0;
+    }
 }
 
 article.home div a, article.home pre a { color: #2c3e50; }
@@ -161,6 +163,7 @@ article.home h4 a:hover {
 footer {
 	padding-top: 15px;
 	font-family: 'Ubuntu';
+    clear: left;
 }
 
 /* nav-vertical-tabs component */
@@ -201,6 +204,18 @@ footer {
 
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
+}
+
+#mc_embed_signup{
+    background:#fff;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+    width: 100%;
+    margin: auto;
+
+    @media only screen and (min-width: 768px) {
+        width: 600px;
+    }
 }
 
 
