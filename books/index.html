@@ -114,7 +114,7 @@ books:
 {% for book in display_books %}
   <div class="box" title="{{ book.name }}">
     <a href="{{ book.link }}" target="_blank">
-      <img src="{{ book.image }}" alt="{{ book.name }}" class="img-gallery"/>
+      <img src="{{ book.image }}" alt="{{ book.name }}" class="img-gallery" loading="lazy"/>
     </a>
   </div>
 {% endfor %}
