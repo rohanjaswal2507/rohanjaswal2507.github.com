@@ -246,3 +246,14 @@ ul.dropdown-menu>li>a>i.fa {
 .img-gallery:hover {
     transform: scale(1.2);
 }
+
+.img-with-border {
+    border: 5px solid #424040;
+    padding: 5rem;
+}
+
+.img-caption {
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+}
