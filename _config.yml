@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: infostack
-google_analytics: UA-62411796-1
+google_analytics: G-PD4NN8X7B4
 fb_app_id: 753888716014248
 title: Info Stack
 
