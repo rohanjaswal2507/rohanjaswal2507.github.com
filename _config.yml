@@ -2,7 +2,7 @@
 
 paginate: 5 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
+exclude: [ "README.md" ] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: infostack
@@ -11,8 +11,7 @@ fb_app_id: 753888716014248
 title: Info Stack
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # empty string for all files
     values:
       title: Info Stack
