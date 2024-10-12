@@ -38,7 +38,7 @@ Many times, it would look like the color of the sky was green, but then I would 
 
 A few moments later after we turned our car towards Donabate, the sky again seemed a little reddish.
 This time there were not many street lights or traffic lights on the road that we were going on.
-I decided to take a more clearer look and lowered the window glass to check it out.
+I decided to take a clearer look and lowered the window glass to check it out.
 There it was. It looked like a magical beam of light coming from space that had different colors.
 All of us were ecstatic at that moment.
 The impulsive decision of roaming at night chasing northern lights had paid off.
