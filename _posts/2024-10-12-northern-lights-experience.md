@@ -3,7 +3,7 @@ layout: post
 title: "Experiencing Northern Lights in Ireland"
 description: "A solar storm hit the Earth and created a rare opportunity to see the Northern Lights in Ireland. I was lucky to witness the beautiful phenomenon."
 category: "blogging"
-cover_image: "/assets/media/bookshelf.jpg"
+cover_image: "/assets/media/post_images/northern-lights-cover.jpg"
 tags: [northern-lights, aurora-borealis, ireland, travel, photography, nature]
 ---
 
