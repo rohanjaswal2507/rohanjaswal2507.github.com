@@ -7,7 +7,7 @@ cover_image: "/assets/media/post_images/northern-lights-cover.jpg"
 tags: [northern-lights, aurora-borealis, ireland, travel, photography, nature]
 ---
 
-<img src="/assets/media/post_images/northern-lights-cover.jpg" alt="Northern lights in Ireland" loading="lazy">
+<img src="/assets/media/post_images/northern-lights-cover.jpg" alt="Northern lights in Ireland">
 
 On the night of 10th october, I had one of the most memorable and “wished-for” experiences of my life. ***Aurora borealis***, or the “***Northern Lights***”, was one of the things on my bucket list. As part of a very rare occurrence, a solar storm happened this week.
 The solar storm triggered the display of the northern lights in areas in the low-latitude regions.
